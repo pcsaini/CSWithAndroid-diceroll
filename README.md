@@ -1,4 +1,7 @@
-# diceroll
-A android app for Dice roll in CS with Android Google
+# CSWithAndroid-diceroll
 
-apk file is available with this
+Unit 2: Dice Roll
+
+This project is developed as a part of Applied CS with Android with Google workshop.
+
+
